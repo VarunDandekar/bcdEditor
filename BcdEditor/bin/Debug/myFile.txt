@@ -1,0 +1,187 @@
+[E:]\MayFair\mayfair_imaging_8.3_WinPE_2019\SOURCES\BOOT.WIM
+output: 
+error: 
+output: C:\Users\VarunDandekar\Documents\Visual Studio 2015\Projects\BcdEditor\BcdEditor\bin\Debug
+
+error: 
+output: An error occurred while attempting to delete the specified entry.
+The system cannot find the file specified.
+
+error: 
+output: An error occurred while attempting the specified create operation.
+The specified entry already exists.
+Cannot create a file when that file already exists.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+[E:]\MayFair\mayfair_imaging_8.3_WinPE_2019\SOURCES\BOOT.WIM
+output: An error occurred while attempting to delete the specified entry.
+The system cannot find the file specified.
+
+error: 
+output: An error occurred while attempting the specified create operation.
+The specified entry already exists.
+Cannot create a file when that file already exists.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: An error occurred while attempting to delete the specified entry.
+The system cannot find the file specified.
+
+error: 
+[E:]\MayFair\mayfair_imaging_8.3_WinPE_2019\SOURCES\BOOT.WIM
+output: An error occurred while attempting to delete the specified entry.
+The system cannot find the file specified.
+
+error: 
+output: An error occurred while attempting the specified create operation.
+The specified entry already exists.
+Cannot create a file when that file already exists.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+[C:]\Users\VarunDandekar\Documents\android notes.txt
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
+[E:]\MayFair\mayfair_imaging_8.3_WinPE_2019\SOURCES\BOOT.WIM
+output: An error occurred while attempting to delete the specified entry.
+The system cannot find the file specified.
+
+error: 
+output: An error occurred while attempting the specified create operation.
+The specified entry already exists.
+Cannot create a file when that file already exists.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 
+output: The operation completed successfully.
+
+error: 

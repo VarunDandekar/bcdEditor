@@ -1,0 +1,9 @@
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\bin\Debug\BcdEditor.exe.config
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\bin\Debug\BcdEditor.exe
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\bin\Debug\BcdEditor.pdb
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\obj\Debug\BcdEditor.csprojResolveAssemblyReference.cache
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\obj\Debug\BcdEditor.BcdEditor.resources
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\obj\Debug\BcdEditor.Properties.Resources.resources
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\obj\Debug\BcdEditor.csproj.GenerateResource.Cache
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\obj\Debug\BcdEditor.exe
+c:\users\varundandekar\documents\visual studio 2015\Projects\BcdEditor\BcdEditor\obj\Debug\BcdEditor.pdb
