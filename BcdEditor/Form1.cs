@@ -104,7 +104,7 @@ namespace BcdEditor
                 ExecuteCommand("%systemroot%\\sysnative\\bcdedit /displayorder {" + guid + "} /addlast");
                 ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} device ramdisk=" + path + ",{ramdiskoptions}");
                 ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} osdevice ramdisk=" + path + ",{ramdiskoptions}");
-                ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} path \\Windows\\sysnative\\Boot\\winload.exe");
+                ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} path \\Windows\\System32\\Boot\\winload.exe");
                 ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} locale en-Us");
                 ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} systemroot \\Windows");
                 ExecuteCommand("%systemroot%\\sysnative\\bcdedit /set {" + guid + "} detecthal Yes");

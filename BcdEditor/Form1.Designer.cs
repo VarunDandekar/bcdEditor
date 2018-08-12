@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BcdEditor));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
             this.button1 = new System.Windows.Forms.Button();
@@ -58,13 +59,12 @@
             // 
             this.splitContainer1.Panel1.Controls.Add(this.flowLayoutPanel2);
             this.splitContainer1.Panel1.Controls.Add(this.flowLayoutPanel1);
-
             // 
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.label2);
-            this.splitContainer1.Size = new System.Drawing.Size(485, 236);
-            this.splitContainer1.SplitterDistance = 135;
+            this.splitContainer1.Size = new System.Drawing.Size(488, 301);
+            this.splitContainer1.SplitterDistance = 172;
             this.splitContainer1.SplitterWidth = 2;
             this.splitContainer1.TabIndex = 0;
             // 
@@ -76,7 +76,7 @@
             this.flowLayoutPanel2.Controls.Add(this.button2);
             this.flowLayoutPanel2.Controls.Add(this.button3);
             this.flowLayoutPanel2.Controls.Add(this.checkedListBox1);
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(101, 79);
+            this.flowLayoutPanel2.Location = new System.Drawing.Point(104, 108);
             this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
             this.flowLayoutPanel2.Size = new System.Drawing.Size(282, 51);
@@ -127,7 +127,7 @@
             this.flowLayoutPanel1.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 3);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(482, 71);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(496, 90);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -147,7 +147,7 @@
             // 
             this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(239, 4);
+            this.textBox1.Location = new System.Drawing.Point(27, 49);
             this.textBox1.Margin = new System.Windows.Forms.Padding(27, 4, 10, 4);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(431, 30);
@@ -167,10 +167,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(485, 236);
+            this.ClientSize = new System.Drawing.Size(488, 301);
             this.Controls.Add(this.splitContainer1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.MaximizeBox = false;
             this.Name = "BcdEditor";
