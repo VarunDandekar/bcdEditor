@@ -6,6 +6,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -20,6 +21,16 @@ namespace BcdEditor
         public BcdEditor()
         {
             InitializeComponent();
+            var identity = WindowsIdentity.GetCurrent();
+            var principal = new WindowsPrincipal(identity);
+            if(!principal.IsInRole(WindowsBuiltInRole.Administrator))
+            {
+                label2.Text = "Application not started with administrator rights.\nPlease close the application and run as admin.";
+                button1.Enabled = false;
+                button2.Enabled = false;
+                button3.Enabled = false;
+                textBox1.Enabled = false;
+            }
         }
         delegate void SetTextCallback(string text);
 

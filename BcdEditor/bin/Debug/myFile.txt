@@ -185,3 +185,7 @@ error:
 output: The operation completed successfully.
 
 error: 
+output: The boot configuration data store could not be opened.
+Access is denied.
+
+error: 
