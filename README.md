@@ -1,5 +1,5 @@
 # bcdEditor
-visual bcdEditor 
+A visual bcdEditor.
 Run with administrator
-
-Note - Only supports WinPE Imgages to add as boot Entry 
+Browse to required .WIM file and add the entry
+Note - Only supports WinPE Imgages to add as boot Entry. only one entry supported. 
